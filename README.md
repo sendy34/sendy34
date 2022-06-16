@@ -1,6 +1,8 @@
 ### Hi there 👋
 ⚡ Design, UI, Frontend, Music and Art <br />
-💬 Good things takes time!
+💬 Good things takes time!<br />
+🔮 Do things smartly <br />
+🧘 Work life balance
 
 <!--
 **sendy34/sendy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
