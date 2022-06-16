@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ Design, UI, Frontend, Music and Art
+⚡ Design, UI, Frontend, Music and Art <br />
 💬 Good things takes time!
 
 <!--
