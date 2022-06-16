@@ -2,7 +2,6 @@
 ⚡ Design, UI, Frontend, Music and Art <br />
 💬 Good things takes time!<br />
 🔮 Do things smartly <br />
-🧘 Work life balance <br />
 📖 Keep learning
 
 <!--
